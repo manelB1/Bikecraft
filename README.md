@@ -4,7 +4,8 @@
 </h4>
 <div align="center">
 	<h3>Bikcraft - Bicicletas Personalizadas</h3>
-	<p align="center">Projeto desenvolvido a fim de estudos do cursos Web Design Completo e HTML, CSS, JavaScript da plataforma Origamid, feito com HTML,CSS e Javascript</p>
+	<p align="center">Projeto desenvolvido a fim de estudos no curso Web Design Completo e HTML e CSS da plataforma Origamid. Este projeto feito 
+	com HTML,CSS e Javascript.</p>
 </div>
 <h1> Bikcraft </h1>
 
