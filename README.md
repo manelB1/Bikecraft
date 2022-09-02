@@ -39,3 +39,15 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 - [VSCode](https://code.visualstudio.com/)
 - [LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
 
+## 🔥 Rodando a aplicação
+```bash
+# Clone o repositório
+git clone https://github.com/manelB1/Bikecraft
+
+# Entre no diretório
+cd bikcraft
+```
+Utilize o [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) para criar um servidor local e executar o Bikcraft.
+
+<h1> Demonstração do site </h1>
+<h1 align= "center"> <img alt=Readme title="Readme" src="./Readme.gif" /> </h1> 
