@@ -50,4 +50,12 @@ cd bikcraft
 Utilize o [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) para criar um servidor local e executar o Bikcraft.
 
 <h1> Demonstração do site </h1>
+
+
 <h1 align= "center"> <img alt=Readme title="Readme" src="./Readme.gif" /> </h1> 
+
+
+<h1 align= "center"> <img alt=Readme title="Readme" src="./Readme2.gif" /> </h1> 
+
+<h1 align= "center"> <img alt=Readme title="Readme" src="./Readme3.gif" /> </h1> 
+<h1 align= "center"> <img alt=Readme title="Readme" src="./Readme4.gif" /> </h1> 
